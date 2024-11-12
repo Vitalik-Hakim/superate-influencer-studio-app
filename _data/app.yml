@@ -1,17 +1,15 @@
 name: Superate Influencer Studio
 description: Monetize your Social Media Following through Brand Deals
-full_description: 'Are you a digital content guru looking to monetize your following? Welcome to Superate, the go-to platform for influencers.
-Make your mark on Instagram, TikTok, Snapchat and more. Get ready to be a part of something big, and start cashing in on those brand deals by signing up early.
-With Superate, your social presence ceases to be just about likes—it becomes your thriving business. <br>
+full_description: 'Are you a digital content guru looking to monetize your following? Welcome to Superate, the go-to platform for influencers. Make your mark on Instagram, TikTok, Snapchat and more. Get ready to be a part of something big, and start cashing in on those brand deals by signing up early.With Superate, your social presence ceases to be just about likes—it becomes your thriving business.'
 
 android: https://play.google.com/store/apps/details?id=com.superate.influencer
 iOS: https://apps.apple.com/us/app/superate-influencer-studio/id6737245237
 web: https://superate.app
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
+  - image1.png
+  - image2.png
+  - image3.png
+  - image.png
 # producthunt: https://telegra.ph/Replace-this-link-07-23
 # companies:
 #   - url: https://telegra.ph/Replace-this-link-07-23
