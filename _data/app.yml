@@ -6,10 +6,10 @@ android: https://play.google.com/store/apps/details?id=com.superate.influencer
 iOS: https://apps.apple.com/us/app/superate-influencer-studio/id6737245237
 web: https://superate.app
 screenshots:
-  - image1.png
   - image2.png
-  - image3.png
   - image.png
+  - image1.png
+  - image3.png
 # producthunt: https://telegra.ph/Replace-this-link-07-23
 # companies:
 #   - url: https://telegra.ph/Replace-this-link-07-23
